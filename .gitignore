@@ -13,3 +13,9 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Large download caches — not for version control
+places_cache/
+
+# Binary model artifacts — large, regenerable
+outputs/clip_embeddings.npy
