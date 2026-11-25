@@ -1,4 +1,3 @@
-
 import os
 import random
 import socket
@@ -13,50 +12,37 @@ os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 
 from datasets import load_dataset
 
-# Load UCM
-dataset = load_dataset(
-    "blanchon/UC_Merced",
-    split="train"
-)
+# ---------------- CONFIG ----------------
+OUTPUT_DIR     = "DATASETS/Satellite"       # same folder as your existing 50 images
+GREEN_CLASSES  = ["forest", "golfcourse"]   # vegetation + open green space
+PER_CLASS      = 10
+SEED           = 42
 
+# ---------------- LOAD ----------------
+dataset = load_dataset("blanchon/UC_Merced", split="train")
 class_names = dataset.features["label"].names
 
-selected_classes = [
-    "buildings",
-    "denseresidential",
-    "mediumresidential",
-    "freeway",
-    "intersection"
-]
+missing = [c for c in GREEN_CLASSES if c not in class_names]
+if missing:
+    raise SystemExit(f"Class not found: {missing}\nAvailable classes: {class_names}")
 
-random.seed(42)
+labels = dataset["label"]
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+random.seed(SEED)
 
-output_dir = "UCM_50_Images"
-os.makedirs(output_dir, exist_ok=True)
-
-for class_name in selected_classes:
-
+# ---------------- SAVE ----------------
+for class_name in GREEN_CLASSES:
     class_id = class_names.index(class_name)
-
-    indices = [
-        i for i, label in enumerate(dataset["label"])
-        if label == class_id
-    ]
-
-    selected = random.sample(indices, 10)
-
-    class_dir = os.path.join(output_dir, class_name)
-    os.makedirs(class_dir, exist_ok=True)
+    indices = [i for i, lab in enumerate(labels) if lab == class_id]
+    selected = random.sample(indices, PER_CLASS)
 
     for count, idx in enumerate(selected, 1):
+        out_path = os.path.join(OUTPUT_DIR, f"{class_name}_{count:02d}.jpg")
+        if os.path.exists(out_path):
+            continue
+        dataset[idx]["image"].convert("RGB").save(out_path)
 
-        image = dataset[idx]["image"].convert("RGB")
+    print(f"{class_name}: saved {PER_CLASS} images")
 
-        image.save(
-            os.path.join(
-                class_dir,
-                f"{class_name}_{count:02d}.jpg"
-            )
-        )
-
-print("Downloaded and saved 50 images!")
+total = len([f for f in os.listdir(OUTPUT_DIR) if f.lower().endswith(".jpg")])
+print(f"Satellite folder now has {total} images")
