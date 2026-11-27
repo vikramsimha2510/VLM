@@ -1,0 +1,101 @@
+image,true_type,category,router_pred,p_satellite,router_correct,top_tags,tag_top1,tag_top3
+building_01.jpg,normal,building,normal,0.103,True,,,
+building_02.jpg,normal,building,normal,0.056,True,,,
+building_03.jpg,normal,building,satellite,0.765,False,buildings(0.306); commercial buildings(0.284); medium density residential area(0.245),,
+building_04.jpg,normal,building,normal,0.11,True,,,
+building_05.jpg,normal,building,normal,0.232,True,,,
+cafe_01.jpg,normal,cafe,normal,0.008,True,,,
+cafe_02.jpg,normal,cafe,satellite,0.618,False,medium density residential area(0.332); buildings(0.31); water(0.162),,
+cafe_03.jpg,normal,cafe,normal,0.088,True,,,
+cafe_04.jpg,normal,cafe,normal,0.126,True,,,
+cafe_05.jpg,normal,cafe,normal,0.007,True,,,
+cars_01.jpg,normal,cars,normal,0.006,True,,,
+cars_02.jpg,normal,cars,normal,0.005,True,,,
+cars_03.jpg,normal,cars,normal,0.004,True,,,
+cars_04.jpg,normal,cars,normal,0.017,True,,,
+cars_05.jpg,normal,cars,normal,0.036,True,,,
+house_01.jpg,normal,house,normal,0.385,True,,,
+house_02.jpg,normal,house,normal,0.268,True,,,
+house_03.jpg,normal,house,normal,0.009,True,,,
+house_04.jpg,normal,house,normal,0.073,True,,,
+house_05.jpg,normal,house,normal,0.042,True,,,
+road_01.jpg,normal,road,normal,0.225,True,,,
+road_02.jpg,normal,road,normal,0.018,True,,,
+road_03.jpg,normal,road,normal,0.044,True,,,
+road_04.jpg,normal,road,normal,0.016,True,,,
+road_05.jpg,normal,road,normal,0.034,True,,,
+supermarket_01.jpg,normal,supermarket,normal,0.003,True,,,
+supermarket_02.jpg,normal,supermarket,normal,0.09,True,,,
+supermarket_03.jpg,normal,supermarket,normal,0.029,True,,,
+supermarket_04.jpg,normal,supermarket,satellite,0.599,False,medium density residential area(0.469); dense residential area(0.27); buildings(0.103),,
+supermarket_05.jpg,normal,supermarket,normal,0.351,True,,,
+buildings_01.jpg,satellite,buildings,satellite,0.998,True,buildings(0.832); commercial buildings(0.097); road intersection(0.038),True,True
+buildings_02.jpg,satellite,buildings,satellite,0.996,True,buildings(0.836); commercial buildings(0.079); dense residential area(0.042),True,True
+buildings_03.jpg,satellite,buildings,satellite,0.999,True,buildings(0.791); dense residential area(0.09); commercial buildings(0.071),True,True
+buildings_04.jpg,satellite,buildings,satellite,0.999,True,buildings(0.79); commercial buildings(0.108); dense residential area(0.079),True,True
+buildings_05.jpg,satellite,buildings,satellite,0.997,True,buildings(0.854); commercial buildings(0.121); dense residential area(0.01),True,True
+buildings_06.jpg,satellite,buildings,satellite,0.999,True,buildings(0.86); commercial buildings(0.078); road intersection(0.024),True,True
+buildings_07.jpg,satellite,buildings,satellite,0.997,True,buildings(0.906); commercial buildings(0.05); road intersection(0.022),True,True
+buildings_08.jpg,satellite,buildings,satellite,0.998,True,buildings(0.77); road intersection(0.11); commercial buildings(0.057),True,True
+buildings_09.jpg,satellite,buildings,satellite,0.999,True,buildings(0.706); commercial buildings(0.22); road intersection(0.04),True,True
+buildings_10.jpg,satellite,buildings,satellite,0.999,True,buildings(0.938); commercial buildings(0.055); dense residential area(0.004),True,True
+denseresidential_01.jpg,satellite,denseresidential,satellite,0.998,True,road intersection(0.495); dense residential area(0.396); medium density residential area(0.067),False,True
+denseresidential_02.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.949); medium density residential area(0.044); buildings(0.006),True,True
+denseresidential_03.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.878); buildings(0.059); medium density residential area(0.038),True,True
+denseresidential_04.jpg,satellite,denseresidential,satellite,0.995,True,dense residential area(0.828); buildings(0.113); medium density residential area(0.051),True,True
+denseresidential_05.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.831); medium density residential area(0.16); buildings(0.007),True,True
+denseresidential_06.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.659); road intersection(0.312); buildings(0.011),True,True
+denseresidential_07.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.918); road intersection(0.048); buildings(0.018),True,True
+denseresidential_08.jpg,satellite,denseresidential,satellite,0.999,True,dense residential area(0.768); buildings(0.168); road intersection(0.035),True,True
+denseresidential_09.jpg,satellite,denseresidential,satellite,1.0,True,buildings(0.537); dense residential area(0.259); road intersection(0.181),False,True
+denseresidential_10.jpg,satellite,denseresidential,satellite,0.998,True,dense residential area(0.872); medium density residential area(0.123); buildings(0.005),True,True
+forest_01.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.983); farmland(0.012); water(0.003),True,True
+forest_02.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.988); buildings(0.003); dense residential area(0.003),True,True
+forest_03.jpg,satellite,forest,satellite,0.997,True,forest or trees(0.75); dense residential area(0.199); buildings(0.03),True,True
+forest_04.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.974); farmland(0.022); water(0.002),True,True
+forest_05.jpg,satellite,forest,satellite,0.998,True,forest or trees(0.985); water(0.009); farmland(0.004),True,True
+forest_06.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.999); dense residential area(0.0); golf course or open green space(0.0),True,True
+forest_07.jpg,satellite,forest,satellite,0.998,True,forest or trees(0.97); farmland(0.019); water(0.005),True,True
+forest_08.jpg,satellite,forest,satellite,1.0,True,forest or trees(0.977); farmland(0.015); dense residential area(0.004),True,True
+forest_09.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.991); farmland(0.004); buildings(0.002),True,True
+forest_10.jpg,satellite,forest,satellite,0.999,True,forest or trees(0.992); farmland(0.006); water(0.001),True,True
+freeway_01.jpg,satellite,freeway,satellite,0.993,True,freeway or highway(0.741); road intersection(0.256); buildings(0.002),True,True
+freeway_02.jpg,satellite,freeway,satellite,0.994,True,freeway or highway(0.963); road intersection(0.036); buildings(0.001),True,True
+freeway_03.jpg,satellite,freeway,satellite,0.996,True,freeway or highway(0.925); road intersection(0.072); farmland(0.002),True,True
+freeway_04.jpg,satellite,freeway,satellite,0.999,True,freeway or highway(0.962); road intersection(0.038); buildings(0.0),True,True
+freeway_05.jpg,satellite,freeway,satellite,0.993,True,freeway or highway(0.89); road intersection(0.105); buildings(0.003),True,True
+freeway_06.jpg,satellite,freeway,satellite,0.999,True,freeway or highway(0.952); road intersection(0.047); buildings(0.0),True,True
+freeway_07.jpg,satellite,freeway,satellite,0.999,True,freeway or highway(0.989); road intersection(0.011); buildings(0.0),True,True
+freeway_08.jpg,satellite,freeway,satellite,0.991,True,freeway or highway(0.969); road intersection(0.031); buildings(0.0),True,True
+freeway_09.jpg,satellite,freeway,satellite,0.988,True,freeway or highway(0.921); road intersection(0.078); buildings(0.001),True,True
+freeway_10.jpg,satellite,freeway,satellite,0.998,True,freeway or highway(0.808); road intersection(0.19); buildings(0.001),True,True
+golfcourse_01.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.936); freeway or highway(0.02); water(0.014),True,True
+golfcourse_02.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.968); road intersection(0.016); water(0.004),True,True
+golfcourse_03.jpg,satellite,golfcourse,satellite,0.999,True,golf course or open green space(0.978); forest or trees(0.011); water(0.005),True,True
+golfcourse_04.jpg,satellite,golfcourse,satellite,0.999,True,golf course or open green space(0.997); water(0.001); freeway or highway(0.001),True,True
+golfcourse_05.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.955); water(0.036); farmland(0.005),True,True
+golfcourse_06.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.937); water(0.048); forest or trees(0.006),True,True
+golfcourse_07.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.913); water(0.039); forest or trees(0.02),True,True
+golfcourse_08.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.839); water(0.133); farmland(0.015),True,True
+golfcourse_09.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.996); farmland(0.003); water(0.001),True,True
+golfcourse_10.jpg,satellite,golfcourse,satellite,1.0,True,golf course or open green space(0.992); farmland(0.006); water(0.001),True,True
+intersection_01.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.957); freeway or highway(0.043); buildings(0.0),True,True
+intersection_02.jpg,satellite,intersection,satellite,0.985,True,road intersection(0.999); freeway or highway(0.0); buildings(0.0),True,True
+intersection_03.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.989); freeway or highway(0.01); dense residential area(0.0),True,True
+intersection_04.jpg,satellite,intersection,satellite,0.999,True,road intersection(0.996); freeway or highway(0.003); buildings(0.001),True,True
+intersection_05.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.964); buildings(0.022); dense residential area(0.006),True,True
+intersection_06.jpg,satellite,intersection,satellite,0.995,True,road intersection(0.996); freeway or highway(0.003); buildings(0.0),True,True
+intersection_07.jpg,satellite,intersection,satellite,0.995,True,road intersection(0.993); freeway or highway(0.003); dense residential area(0.002),True,True
+intersection_08.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.994); freeway or highway(0.005); buildings(0.0),True,True
+intersection_09.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.985); freeway or highway(0.014); buildings(0.001),True,True
+intersection_10.jpg,satellite,intersection,satellite,0.998,True,road intersection(0.954); freeway or highway(0.044); buildings(0.002),True,True
+mediumresidential_01.jpg,satellite,mediumresidential,satellite,0.998,True,dense residential area(0.709); medium density residential area(0.254); buildings(0.014),False,True
+mediumresidential_02.jpg,satellite,mediumresidential,satellite,1.0,True,dense residential area(0.51); medium density residential area(0.439); buildings(0.029),False,True
+mediumresidential_03.jpg,satellite,mediumresidential,satellite,0.999,True,dense residential area(0.705); medium density residential area(0.237); road intersection(0.028),False,True
+mediumresidential_04.jpg,satellite,mediumresidential,satellite,1.0,True,dense residential area(0.711); medium density residential area(0.267); forest or trees(0.006),False,True
+mediumresidential_05.jpg,satellite,mediumresidential,satellite,0.999,True,dense residential area(0.523); medium density residential area(0.474); buildings(0.002),False,True
+mediumresidential_06.jpg,satellite,mediumresidential,satellite,0.997,True,dense residential area(0.678); medium density residential area(0.295); road intersection(0.015),False,True
+mediumresidential_07.jpg,satellite,mediumresidential,satellite,1.0,True,dense residential area(0.574); medium density residential area(0.33); freeway or highway(0.032),False,True
+mediumresidential_08.jpg,satellite,mediumresidential,satellite,0.999,True,medium density residential area(0.653); dense residential area(0.315); buildings(0.015),True,True
+mediumresidential_09.jpg,satellite,mediumresidential,satellite,0.998,True,dense residential area(0.357); road intersection(0.284); medium density residential area(0.257),False,True
+mediumresidential_10.jpg,satellite,mediumresidential,satellite,0.999,True,dense residential area(0.5); medium density residential area(0.445); buildings(0.042),False,True

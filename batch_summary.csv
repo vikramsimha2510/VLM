@@ -1,0 +1,6 @@
+true_type,model,n,clip_match,remoteclip_match,keyword_hit,seconds
+normal,BLIP-base,27,0.274,0.277,0.852,0.264
+normal,BLIP-large,27,0.28,0.283,0.815,0.359
+satellite,BLIP-base,70,0.306,0.272,0.771,0.27
+satellite,BLIP-large,70,0.304,0.278,0.843,0.352
+satellite,RSICD-BLIP,70,0.267,0.27,0.871,0.325

@@ -1,0 +1,274 @@
+image,true_type,category,branch,model,caption,seconds,clip_match,remoteclip_match,keyword_hit,is_pipeline_output
+building_01.jpg,normal,building,normal,BLIP-base,the sky is cloudy,0.12,0.2044,0.2483,False,False
+building_01.jpg,normal,building,normal,BLIP-large,there is a large building that has a lot of stairs in front of it,0.36,0.25,0.2783,True,True
+building_02.jpg,normal,building,normal,BLIP-base,a red bus driving down a street next to tall buildings,0.3,0.291,0.2886,True,False
+building_02.jpg,normal,building,normal,BLIP-large,there are many buses that are parked on the side of the road,0.31,0.2427,0.317,False,True
+building_03.jpg,normal,building,satellite,RSICD-BLIP,two buildings are close to a park with some green trees and a swimming pool.,0.44,0.2414,0.2557,True,True
+building_03.jpg,normal,building,satellite,BLIP-base,"2 bhk apartment for sale in sector 1, sector 1, sector 2, sector 3, sector",0.46,0.3307,0.2463,False,False
+building_03.jpg,normal,building,satellite,BLIP-large,an artist ' s rendering of a residential apartment complex in a residential area,0.35,0.2848,0.2574,False,False
+building_04.jpg,normal,building,normal,BLIP-base,a brick building with a sidewalk in front of it,0.24,0.2585,0.2828,True,False
+building_04.jpg,normal,building,normal,BLIP-large,there are two buildings that are next to each other in the grass,0.33,0.2255,0.2719,True,True
+building_05.jpg,normal,building,normal,BLIP-base,a view of a city with tall buildings,0.21,0.2451,0.2531,True,False
+building_05.jpg,normal,building,normal,BLIP-large,there is a large building with a lot of windows in the middle of the city,0.4,0.2616,0.2849,True,True
+cafe_01.jpg,normal,cafe,normal,BLIP-base,a woman sitting in a restaurant reading a book,0.22,0.289,0.3074,True,False
+cafe_01.jpg,normal,cafe,normal,BLIP-large,there is a woman sitting at a table in a restaurant reading a book,0.36,0.307,0.2969,True,True
+cafe_02.jpg,normal,cafe,satellite,RSICD-BLIP,a large building is close to a river with some green trees and a few buildings.,0.39,0.117,0.2226,False,True
+cafe_02.jpg,normal,cafe,satellite,BLIP-base,a man sitting at a table in front of a tent,0.29,0.2192,0.2666,True,False
+cafe_02.jpg,normal,cafe,satellite,BLIP-large,there is a coffee machine that is sitting on a table by the water,0.34,0.2895,0.2651,True,False
+cafe_03.jpg,normal,cafe,normal,BLIP-base,a man sitting at a table with a plate of food,0.3,0.2598,0.2763,True,False
+cafe_03.jpg,normal,cafe,normal,BLIP-large,there is a man sitting at a table with a plate of food in front of him,0.4,0.2474,0.2771,True,True
+cafe_04.jpg,normal,cafe,normal,BLIP-base,a group of people sitting at tables on a deck,0.26,0.2425,0.2619,True,False
+cafe_04.jpg,normal,cafe,normal,BLIP-large,tables and chairs on a wooden deck with string lights strung over them,0.32,0.273,0.2495,True,True
+cafe_05.jpg,normal,cafe,normal,BLIP-base,a group of people standing around a food truck,0.24,0.2585,0.2943,True,False
+cafe_05.jpg,normal,cafe,normal,BLIP-large,several people are standing in line at a food truck in a market,0.33,0.2684,0.2892,True,True
+cars_01.jpg,normal,cars,normal,BLIP-base,a red truck parked in front of a gas station,0.26,0.3243,0.311,True,False
+cars_01.jpg,normal,cars,normal,BLIP-large,there is a red truck that is parked at a gas station,0.33,0.3109,0.3094,True,True
+cars_02.jpg,normal,cars,normal,BLIP-base,a black car parked in a parking lot,0.3,0.2558,0.2591,True,False
+cars_02.jpg,normal,cars,normal,BLIP-large,several cars are parked in a row in a parking lot,0.39,0.2612,0.2619,True,True
+cars_03.jpg,normal,cars,normal,BLIP-base,a gas station with a gas pump and a man walking by,0.38,0.3065,0.2783,False,False
+cars_03.jpg,normal,cars,normal,BLIP-large,there is a man that is walking by a gas station at night,0.4,0.313,0.3005,False,True
+cars_04.jpg,normal,cars,normal,BLIP-base,a street scene with buildings and a traffic light,0.3,0.2455,0.2056,False,False
+cars_04.jpg,normal,cars,normal,BLIP-large,there is a tall building with a clock tower on the corner of the street,0.45,0.2506,0.2298,False,True
+cars_05.jpg,normal,cars,normal,BLIP-base,a truck parked in a parking lot next to a building,0.39,0.2678,0.2352,True,False
+cars_05.jpg,normal,cars,normal,BLIP-large,there is a truck that is driving down the street in front of a building,0.55,0.2398,0.2591,True,True
+house_01.jpg,normal,house,normal,BLIP-base,a row of houses in a residential area,0.21,0.2962,0.2524,True,False
+house_01.jpg,normal,house,normal,BLIP-large,there are many houses and trees in this neighborhood on a sunny day,0.36,0.2942,0.2494,True,True
+house_02.jpg,normal,house,normal,BLIP-base,an artist ' s rendering of a home in the woods,0.27,0.2739,0.2629,True,False
+house_02.jpg,normal,house,normal,BLIP-large,this is an artist ' s rendering of a house in the woods,0.33,0.2775,0.2675,True,True
+house_03.jpg,normal,house,normal,BLIP-base,an old brick building,0.26,0.2737,0.2614,True,False
+house_03.jpg,normal,house,normal,BLIP-large,there is a brick alley that leads to a brick building,0.33,0.2927,0.2638,True,True
+house_04.jpg,normal,house,normal,BLIP-base,a car parked in front of an apartment building,0.26,0.2503,0.3091,True,False
+house_04.jpg,normal,house,normal,BLIP-large,cars are parked on the side of the road in front of a building,0.35,0.2471,0.2922,True,True
+house_05.jpg,normal,house,normal,BLIP-base,a black and white photo of a small house,0.22,0.2978,0.3206,True,False
+house_05.jpg,normal,house,normal,BLIP-large,an old black and white photo of a small white house in a field,0.35,0.2906,0.3083,True,True
+road_01.jpg,normal,road,normal,BLIP-base,a red road closed sign sitting on the side of a road,0.3,0.2745,0.2696,True,False
+road_01.jpg,normal,road,normal,BLIP-large,there is a road closed ahead sign on the side of the road,0.32,0.2916,0.2804,True,True
+road_02.jpg,normal,road,normal,BLIP-base,a woman riding a bike down a street,0.26,0.2942,0.2749,True,False
+road_02.jpg,normal,road,normal,BLIP-large,there are two girls riding on a bike down the street,0.28,0.2991,0.3077,True,True
+road_03.jpg,normal,road,normal,BLIP-base,flowers and a cross on the side of the road,0.27,0.2753,0.2425,True,False
+road_03.jpg,normal,road,normal,BLIP-large,there is a cross on the side of the road next to flowers,0.34,0.2815,0.2407,True,True
+road_04.jpg,normal,road,normal,BLIP-base,a wall with graffiti on it in the middle of a street,0.3,0.2929,0.3502,True,False
+road_04.jpg,normal,road,normal,BLIP-large,graffiti on a brick wall with a fire hydrant in front of it,0.34,0.2806,0.3117,False,True
+road_05.jpg,normal,road,normal,BLIP-base,a group of motor scoots parked on the side of the road,0.33,0.2774,0.269,True,False
+road_05.jpg,normal,road,normal,BLIP-large,there are a lot of motorcyclists that are parked on the side of the street,0.43,0.2895,0.2631,True,True
+supermarket_01.jpg,normal,supermarket,normal,BLIP-base,a store with a lot of fruit,0.18,0.2995,0.3085,True,False
+supermarket_01.jpg,normal,supermarket,normal,BLIP-large,there is a man that is standing in front of a display of candies,0.35,0.3327,0.3406,False,True
+supermarket_02.jpg,normal,supermarket,normal,BLIP-base,a produce stand filled with lots of fresh vegetables,0.23,0.3196,0.3195,True,False
+supermarket_02.jpg,normal,supermarket,normal,BLIP-large,there are many vegetables on display in a grocery store,0.28,0.3276,0.2864,True,True
+supermarket_03.jpg,normal,supermarket,normal,BLIP-base,a hospital room filled with lots of stuff,0.2,0.2205,0.2581,False,False
+supermarket_03.jpg,normal,supermarket,normal,BLIP-large,there is a picture of a customer service area in a store,0.32,0.3092,0.3227,True,True
+supermarket_04.jpg,normal,supermarket,satellite,RSICD-BLIP,a large number of people are gathered around a table with many food items.,0.37,0.3118,0.2941,False,True
+supermarket_04.jpg,normal,supermarket,satellite,BLIP-base,a group of people standing around a table full of food,0.26,0.2842,0.2978,False,False
+supermarket_04.jpg,normal,supermarket,satellite,BLIP-large,several people standing around a buffet table full of food and drinks,0.31,0.3232,0.2932,False,False
+supermarket_05.jpg,normal,supermarket,normal,BLIP-base,a collage of photos of a farmers market,0.32,0.315,0.2757,True,False
+supermarket_05.jpg,normal,supermarket,normal,BLIP-large,there are many different pictures of a farmers market with fresh produce,0.39,0.3079,0.2692,True,True
+buildings_01.jpg,satellite,buildings,satellite,RSICD-BLIP,some cars are parked in front of a church.,0.33,0.2304,0.2786,False,True
+buildings_01.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a parking lot with cars parked in the parking lot,0.39,0.3103,0.2891,False,False
+buildings_01.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a parking lot with a lot of cars parked in it,0.48,0.2895,0.296,False,False
+buildings_02.jpg,satellite,buildings,satellite,RSICD-BLIP,some buildings and some green trees are close to a road.,0.34,0.2565,0.3173,True,True
+buildings_02.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of houses in the suburbs of los,0.34,0.2802,0.2348,True,False
+buildings_02.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a parking lot with cars parked in it,0.42,0.2951,0.2647,False,False
+buildings_03.jpg,satellite,buildings,satellite,RSICD-BLIP,a rectangular building is surrounded by many green trees.,0.29,0.2447,0.2206,True,True
+buildings_03.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a large building in the middle of a city,0.31,0.2822,0.2891,True,False
+buildings_03.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a building with a lot of cars parked in front of it,0.41,0.2806,0.3229,True,False
+buildings_04.jpg,satellite,buildings,satellite,RSICD-BLIP,a large building is next to a road.,0.27,0.2608,0.2968,True,True
+buildings_04.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a small town,0.27,0.2595,0.2218,False,False
+buildings_04.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a building with a parking lot in the middle of it,0.35,0.2993,0.29,True,False
+buildings_05.jpg,satellite,buildings,satellite,RSICD-BLIP,some buildings are in two sides of a road.,0.27,0.2646,0.3219,True,True
+buildings_05.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a city with many buildings,0.22,0.2662,0.2618,True,False
+buildings_05.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a city with a lot of buildings,0.31,0.2619,0.2631,True,False
+buildings_06.jpg,satellite,buildings,satellite,RSICD-BLIP,some buildings are close to a road in an industrial area.,0.3,0.3064,0.2921,True,True
+buildings_06.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a city with many buildings,0.21,0.2692,0.2594,True,False
+buildings_06.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a city with a lot of buildings,0.28,0.2614,0.2588,True,False
+buildings_07.jpg,satellite,buildings,satellite,RSICD-BLIP,a large number of people are in a playground.,0.29,0.2406,0.1852,False,True
+buildings_07.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a building in a city,0.28,0.2847,0.2991,True,False
+buildings_07.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a parking lot with cars parked in it,0.3,0.3038,0.2954,False,False
+buildings_08.jpg,satellite,buildings,satellite,RSICD-BLIP,some buildings and some green trees are close to a road.,0.29,0.2734,0.3105,True,True
+buildings_08.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of houses in the suburbs of los,0.26,0.2897,0.227,True,False
+buildings_08.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a city with a lot of tall buildings,0.3,0.2314,0.2216,True,False
+buildings_09.jpg,satellite,buildings,satellite,RSICD-BLIP,some buildings and some green trees are located in an industrial area.,0.3,0.2611,0.2557,True,True
+buildings_09.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of the site of the explosion,0.36,0.2828,0.2672,False,False
+buildings_09.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a parking lot with a lot of cars in it,0.32,0.2744,0.3058,False,False
+buildings_10.jpg,satellite,buildings,satellite,RSICD-BLIP,several buildings are around a central building.,0.2,0.2291,0.2863,True,True
+buildings_10.jpg,satellite,buildings,satellite,BLIP-base,an aerial view of a building with broken windows,0.26,0.2972,0.2983,True,False
+buildings_10.jpg,satellite,buildings,satellite,BLIP-large,an aerial view of a building with a clock in the middle of it,0.33,0.2927,0.2778,True,False
+denseresidential_01.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in an average residential area.,0.34,0.263,0.2915,True,True
+denseresidential_01.jpg,satellite,denseresidential,satellite,BLIP-base,a street in a residential area with lots of houses,0.25,0.2716,0.3008,True,False
+denseresidential_01.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a street with houses and cars parked on the side of the road,0.38,0.3219,0.2997,True,False
+denseresidential_02.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in an average residential area.,0.34,0.3044,0.308,True,True
+denseresidential_02.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of houses in a neighborhood,0.21,0.3525,0.2938,True,False
+denseresidential_02.jpg,satellite,denseresidential,satellite,BLIP-large,aerial view of a residential neighborhood with a pool and tennis court,0.36,0.3261,0.2425,True,False
+denseresidential_03.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many green buildings and trees are located in an average residential area.,0.45,0.27,0.2796,True,True
+denseresidential_03.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of houses in a residential area,0.27,0.3006,0.3067,True,False
+denseresidential_03.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a residential area with a lot of houses,0.36,0.2839,0.3107,True,False
+denseresidential_04.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many grey buildings are in a medium residential area.,0.32,0.2883,0.3243,True,True
+denseresidential_04.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of a row of houses,0.36,0.3137,0.2968,True,False
+denseresidential_04.jpg,satellite,denseresidential,satellite,BLIP-large,aerial view of a row of houses in a residential area,0.35,0.3132,0.2919,True,False
+denseresidential_05.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in a church.,0.39,0.2443,0.2134,True,True
+denseresidential_05.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of houses in a neighborhood,0.37,0.3014,0.2842,True,False
+denseresidential_05.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a residential area with a parking lot and several houses,0.36,0.2954,0.3081,True,False
+denseresidential_06.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in an average residential area.,0.33,0.2751,0.2733,True,True
+denseresidential_06.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of a city with houses,0.21,0.2714,0.2532,True,False
+denseresidential_06.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a residential area with lots of houses and trees,0.33,0.2712,0.2895,True,False
+denseresidential_07.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in an average residential area.,0.33,0.2627,0.2847,True,True
+denseresidential_07.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of houses in the suburbs,0.25,0.2817,0.2516,True,False
+denseresidential_07.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a residential area with houses and trees in the foreground,0.38,0.2485,0.2867,True,False
+denseresidential_08.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many buildings and some green trees are located in an average residential area.,0.32,0.2918,0.2625,True,True
+denseresidential_08.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of a residential area,0.23,0.3411,0.2496,True,False
+denseresidential_08.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a neighborhood with a lot of houses and cars,0.31,0.3229,0.2481,True,False
+denseresidential_09.jpg,satellite,denseresidential,satellite,RSICD-BLIP,many cars are parked in front of a piece of yellow khaki khaki building.,0.44,0.2946,0.3308,True,True
+denseresidential_09.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of a city with many buildings,0.23,0.2523,0.2235,True,False
+denseresidential_09.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a parking lot with a lot of parked cars,0.34,0.331,0.2421,False,False
+denseresidential_10.jpg,satellite,denseresidential,satellite,RSICD-BLIP,a large number of trees were planted around the house.,0.29,0.2369,0.2179,True,True
+denseresidential_10.jpg,satellite,denseresidential,satellite,BLIP-base,an aerial view of a large building in the middle of a city,0.32,0.2938,0.2247,True,False
+denseresidential_10.jpg,satellite,denseresidential,satellite,BLIP-large,an aerial view of a parking lot with several rows of umbrellas,0.35,0.3396,0.199,False,False
+forest_01.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a forest.,0.24,0.2847,0.2981,True,True
+forest_01.jpg,satellite,forest,satellite,BLIP-base,a close up view of the surface of a granite floor,0.27,0.2488,0.2337,False,False
+forest_01.jpg,satellite,forest,satellite,BLIP-large,there is a plane that is flying over some trees in the sky,0.31,0.2926,0.2531,True,False
+forest_02.jpg,satellite,forest,satellite,RSICD-BLIP,it ' s a big piece of green meadow.,0.23,0.2478,0.2037,True,True
+forest_02.jpg,satellite,forest,satellite,BLIP-base,a close up view of the surface of a field,0.27,0.3178,0.286,False,False
+forest_02.jpg,satellite,forest,satellite,BLIP-large,there is a plane that is flying over a field of grass,0.31,0.259,0.235,False,False
+forest_03.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a piece of forest.,0.24,0.2566,0.2283,True,True
+forest_03.jpg,satellite,forest,satellite,BLIP-base,an aerial view of the home of former president barack obama,0.3,0.2767,0.2394,False,False
+forest_03.jpg,satellite,forest,satellite,BLIP-large,aerial view of a residential area with trees and houses in the foreground,0.33,0.2652,0.2445,True,False
+forest_04.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a forest.,0.23,0.2801,0.2975,True,True
+forest_04.jpg,satellite,forest,satellite,BLIP-base,an aerial view of a forest,0.2,0.3285,0.2688,True,False
+forest_04.jpg,satellite,forest,satellite,BLIP-large,there is a bird ' s - eye view of a green forest,0.34,0.3213,0.2748,True,False
+forest_05.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a piece of forest.,0.31,0.2929,0.2786,True,True
+forest_05.jpg,satellite,forest,satellite,BLIP-base,aerial view of a forest,0.18,0.3384,0.2748,True,False
+forest_05.jpg,satellite,forest,satellite,BLIP-large,there is a bird ' s - eye view of a forest with a bird ' s - eye view of the trees,0.66,0.3151,0.2699,True,False
+forest_06.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a piece of forest.,0.32,0.2823,0.2901,True,True
+forest_06.jpg,satellite,forest,satellite,BLIP-base,an aerial view of a wooded area,0.25,0.3076,0.2804,True,False
+forest_06.jpg,satellite,forest,satellite,BLIP-large,there is a plane that is flying in the sky over a forest,0.39,0.2972,0.2982,True,False
+forest_07.jpg,satellite,forest,satellite,RSICD-BLIP,it ' s a piece of green forest.,0.31,0.2515,0.2705,True,True
+forest_07.jpg,satellite,forest,satellite,BLIP-base,aerial view of a road with trees in the background,0.38,0.2785,0.2627,True,False
+forest_07.jpg,satellite,forest,satellite,BLIP-large,an aerial view of a car driving down a road next to a forest,0.43,0.2945,0.2362,True,False
+forest_08.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a piece of forest.,0.27,0.2782,0.2723,True,True
+forest_08.jpg,satellite,forest,satellite,BLIP-base,aerial view of a forest,0.16,0.3351,0.2623,True,False
+forest_08.jpg,satellite,forest,satellite,BLIP-large,there is a bird ' s - eye view of a green forest,0.33,0.32,0.2724,True,False
+forest_09.jpg,satellite,forest,satellite,RSICD-BLIP,it ' s a big piece of green forest.,0.26,0.2423,0.2819,True,True
+forest_09.jpg,satellite,forest,satellite,BLIP-base,a black granite floor with some green leaves,0.22,0.3206,0.2544,True,False
+forest_09.jpg,satellite,forest,satellite,BLIP-large,this is a picture of a bear that is walking in the grass,0.31,0.2738,0.2796,False,False
+forest_10.jpg,satellite,forest,satellite,RSICD-BLIP,many green trees are in a forest.,0.26,0.2781,0.3056,True,True
+forest_10.jpg,satellite,forest,satellite,BLIP-base,an aerial view of a forest,0.2,0.3306,0.2823,True,False
+forest_10.jpg,satellite,forest,satellite,BLIP-large,there is a bird ' s - eye view of a forest from above,0.33,0.3367,0.2833,True,False
+freeway_01.jpg,satellite,freeway,satellite,RSICD-BLIP,two parallel roads are on two sides of a road.,0.36,0.2677,0.2952,True,True
+freeway_01.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway in the desert,0.28,0.3228,0.2846,True,False
+freeway_01.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway in the middle of a desert,0.31,0.3196,0.2675,True,False
+freeway_02.jpg,satellite,freeway,satellite,RSICD-BLIP,some cars are parked on an airport.,0.3,0.244,0.2372,False,True
+freeway_02.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars driving on it,0.26,0.3212,0.2738,True,False
+freeway_02.jpg,satellite,freeway,satellite,BLIP-large,overhead view of a highway with cars and trucks driving on it,0.29,0.3236,0.277,True,False
+freeway_03.jpg,satellite,freeway,satellite,RSICD-BLIP,many cars are on a bridge over a river.,0.26,0.2687,0.2315,True,True
+freeway_03.jpg,satellite,freeway,satellite,BLIP-base,an overhead view of a highway with cars on it,0.28,0.3271,0.295,True,False
+freeway_03.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with several cars driving on it,0.29,0.3298,0.2851,True,False
+freeway_04.jpg,satellite,freeway,satellite,RSICD-BLIP,several cars are on a railway station.,0.31,0.2597,0.2465,False,True
+freeway_04.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars on it,0.28,0.3041,0.2829,True,False
+freeway_04.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with cars driving on it,0.32,0.3024,0.2841,True,False
+freeway_05.jpg,satellite,freeway,satellite,RSICD-BLIP,some green trees are on two sides of two parallel roads.,0.29,0.2456,0.2925,True,True
+freeway_05.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway in the desert,0.24,0.3203,0.2292,True,False
+freeway_05.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with several cars driving on it,0.29,0.3076,0.2597,True,False
+freeway_06.jpg,satellite,freeway,satellite,RSICD-BLIP,two parallel parallel roads are on two sides of a green meadow.,0.32,0.255,0.2739,True,True
+freeway_06.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars on it,0.26,0.3204,0.2726,True,False
+freeway_06.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a car driving down a road next to a field,0.35,0.3372,0.2998,True,False
+freeway_07.jpg,satellite,freeway,satellite,RSICD-BLIP,some green trees are near two planes on an airport.,0.27,0.2747,0.2356,False,True
+freeway_07.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of the runway at the airport,0.26,0.2881,0.1989,False,False
+freeway_07.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a snow covered road with cars driving on it,0.31,0.2926,0.2778,True,False
+freeway_08.jpg,satellite,freeway,satellite,RSICD-BLIP,several cars are on a viaduct with many green trees in two sides of it.,0.49,0.2612,0.2572,False,True
+freeway_08.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars driving on it,0.32,0.3416,0.265,True,False
+freeway_08.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with several cars driving on it,0.36,0.3495,0.2767,True,False
+freeway_09.jpg,satellite,freeway,satellite,RSICD-BLIP,several cars are in a straight road.,0.25,0.2879,0.3275,True,True
+freeway_09.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars on it,0.34,0.3466,0.2875,True,False
+freeway_09.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with cars driving on it,0.35,0.3462,0.2848,True,False
+freeway_10.jpg,satellite,freeway,satellite,RSICD-BLIP,four cars are in a straight line on a road.,0.4,0.3114,0.3211,True,True
+freeway_10.jpg,satellite,freeway,satellite,BLIP-base,an aerial view of a highway with cars driving on it,0.33,0.3395,0.2667,True,False
+freeway_10.jpg,satellite,freeway,satellite,BLIP-large,an aerial view of a highway with several cars driving on it,0.44,0.3406,0.2744,True,False
+golfcourse_01.jpg,satellite,golfcourse,satellite,RSICD-BLIP,a row of trees is near a piece of green meadow.,0.3,0.2488,0.2515,True,True
+golfcourse_01.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.27,0.3362,0.2739,True,False
+golfcourse_01.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a golf course with a hole in the middle of the course,0.38,0.3492,0.2827,True,False
+golfcourse_02.jpg,satellite,golfcourse,satellite,RSICD-BLIP,three white clouds are in a piece of green meadow.,0.28,0.2668,0.2431,True,True
+golfcourse_02.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.24,0.3262,0.306,True,False
+golfcourse_02.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a golf course with a green and sand bunkers,0.35,0.3384,0.3417,True,False
+golfcourse_03.jpg,satellite,golfcourse,satellite,RSICD-BLIP,many green trees are in two sides of a curved green meadow.,0.31,0.28,0.2443,True,True
+golfcourse_03.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.24,0.335,0.302,True,False
+golfcourse_03.jpg,satellite,golfcourse,satellite,BLIP-large,aerial view of a field with trees and a house in the distance,0.32,0.2977,0.2365,True,False
+golfcourse_04.jpg,satellite,golfcourse,satellite,RSICD-BLIP,two ponds are surrounded by some green trees.,0.26,0.2522,0.2166,True,True
+golfcourse_04.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.24,0.3315,0.2979,True,False
+golfcourse_04.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a golf course with a green and two white bunkers,0.36,0.3492,0.3091,True,False
+golfcourse_05.jpg,satellite,golfcourse,satellite,RSICD-BLIP,several green trees are near a pond.,0.24,0.2607,0.2936,True,True
+golfcourse_05.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.17,0.3218,0.2801,True,False
+golfcourse_05.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a golf course with a green and a pond,0.32,0.3058,0.2696,True,False
+golfcourse_06.jpg,satellite,golfcourse,satellite,RSICD-BLIP,many green trees are around a piece of green meadow.,0.26,0.2683,0.1918,True,True
+golfcourse_06.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.24,0.332,0.2814,True,False
+golfcourse_06.jpg,satellite,golfcourse,satellite,BLIP-large,aerial view of a golf course surrounded by trees and a green field,0.33,0.3336,0.2777,True,False
+golfcourse_07.jpg,satellite,golfcourse,satellite,RSICD-BLIP,many green trees are around a piece of green meadow.,0.29,0.2419,0.1822,True,True
+golfcourse_07.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.24,0.3286,0.3029,True,False
+golfcourse_07.jpg,satellite,golfcourse,satellite,BLIP-large,aerial view of a golf course surrounded by trees and water,0.33,0.3293,0.3068,True,False
+golfcourse_08.jpg,satellite,golfcourse,satellite,RSICD-BLIP,a piece of green lawn is next to a piece of green meadow.,0.34,0.2657,0.2002,True,True
+golfcourse_08.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.23,0.3273,0.2934,True,False
+golfcourse_08.jpg,satellite,golfcourse,satellite,BLIP-large,there is an aerial view of a golf course with a hole in the middle of the course,0.44,0.3662,0.2839,True,False
+golfcourse_09.jpg,satellite,golfcourse,satellite,RSICD-BLIP,it ' s a piece of green meadow.,0.22,0.2333,0.2629,True,True
+golfcourse_09.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a beach and the ocean,0.21,0.2509,0.1796,False,False
+golfcourse_09.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a beach and a body of water,0.32,0.2564,0.2035,False,False
+golfcourse_10.jpg,satellite,golfcourse,satellite,RSICD-BLIP,several green trees are close to a piece of green meadow.,0.29,0.2653,0.2913,True,True
+golfcourse_10.jpg,satellite,golfcourse,satellite,BLIP-base,an aerial view of a golf course,0.19,0.3104,0.307,True,False
+golfcourse_10.jpg,satellite,golfcourse,satellite,BLIP-large,an aerial view of a golf course with a green and a white ball,0.46,0.3092,0.2786,True,False
+intersection_01.jpg,satellite,intersection,satellite,RSICD-BLIP,several cars are on a four - way intersection.,0.39,0.2959,0.3365,True,True
+intersection_01.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of an intersection in the city,0.27,0.3178,0.3032,True,False
+intersection_01.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a street intersection with cars and trucks,0.34,0.3216,0.3162,True,False
+intersection_02.jpg,satellite,intersection,satellite,RSICD-BLIP,some buildings and many green trees are close to a crossroads.,0.36,0.2315,0.2606,True,True
+intersection_02.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of the intersection of a street,0.33,0.3073,0.3206,True,False
+intersection_02.jpg,satellite,intersection,satellite,BLIP-large,aerial view of a city street with cars parked on both sides of the road,0.45,0.2777,0.2819,True,False
+intersection_03.jpg,satellite,intersection,satellite,RSICD-BLIP,some buildings and some green trees are on two sides of a four - way road.,0.54,0.2734,0.2688,True,True
+intersection_03.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of the intersection of a street and houses,0.33,0.3384,0.3094,True,False
+intersection_03.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a street intersection with cars and houses in the background,0.33,0.3284,0.3166,True,False
+intersection_04.jpg,satellite,intersection,satellite,RSICD-BLIP,many buildings and some green trees are located on two sides of a crossroads.,0.37,0.2644,0.3154,True,True
+intersection_04.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of a street in a residential area,0.26,0.2882,0.2614,True,False
+intersection_04.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a city street with cars parked on the side of the road,0.37,0.2881,0.2959,True,False
+intersection_05.jpg,satellite,intersection,satellite,RSICD-BLIP,many buildings and some green trees are located on two sides of a four - way cross.,0.4,0.2588,0.3112,False,True
+intersection_05.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of a city with many buildings,0.26,0.2189,0.2468,False,False
+intersection_05.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a city street with a lot of buildings,0.34,0.2436,0.2843,True,False
+intersection_06.jpg,satellite,intersection,satellite,RSICD-BLIP,several cars are parked on a road with a four - way bridge over it.,0.36,0.2773,0.2886,True,True
+intersection_06.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of the intersection of a road and a small town,0.3,0.3257,0.3207,True,False
+intersection_06.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a street intersection with cars parked on the side,0.32,0.3104,0.3173,True,False
+intersection_07.jpg,satellite,intersection,satellite,RSICD-BLIP,many buildings and some green trees are located on two sides of a road in an average residential area.,0.44,0.2629,0.2709,True,True
+intersection_07.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of a neighborhood,0.23,0.2627,0.2582,False,False
+intersection_07.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a city street with cars parked on the side of it,0.37,0.2725,0.3016,True,False
+intersection_08.jpg,satellite,intersection,satellite,RSICD-BLIP,some buildings and many green trees are located on two sides of a road.,0.36,0.251,0.2308,True,True
+intersection_08.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of the intersection of a street and a parking lot,0.36,0.3375,0.2977,True,False
+intersection_08.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a parking lot with several cars parked in it,0.33,0.3173,0.2009,False,False
+intersection_09.jpg,satellite,intersection,satellite,RSICD-BLIP,some cars are in a cross - shaped parking lot.,0.27,0.2953,0.225,False,True
+intersection_09.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of the intersection of a street and a parking lot,0.31,0.3309,0.3071,True,False
+intersection_09.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a parking lot with cars parked in it,0.31,0.3148,0.2272,False,False
+intersection_10.jpg,satellite,intersection,satellite,RSICD-BLIP,several buildings and many green trees are close to a viaduct.,0.28,0.226,0.1628,False,True
+intersection_10.jpg,satellite,intersection,satellite,BLIP-base,an aerial view of a small town,0.34,0.2834,0.2063,False,False
+intersection_10.jpg,satellite,intersection,satellite,BLIP-large,an aerial view of a street with houses in the background,0.29,0.2659,0.2627,True,False
+mediumresidential_01.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,many green buildings and trees are located in an average residential area.,0.44,0.2663,0.2673,True,True
+mediumresidential_01.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of houses in a neighborhood,0.22,0.3112,0.2778,True,False
+mediumresidential_01.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a neighborhood with houses and a car parked on the street,0.35,0.2978,0.2428,True,False
+mediumresidential_02.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,many buildings and some green trees are located on two sides of a road.,0.48,0.2652,0.2905,True,True
+mediumresidential_02.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of a neighborhood in the city of detroit,0.34,0.3056,0.2883,False,False
+mediumresidential_02.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a residential neighborhood with a church and a cemetery,0.39,0.3163,0.3147,True,False
+mediumresidential_03.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,some buildings and many green trees are located in an average residential area.,0.4,0.2932,0.2597,True,True
+mediumresidential_03.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of a neighborhood,0.33,0.3048,0.2599,False,False
+mediumresidential_03.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a residential neighborhood with lots of trees,0.36,0.3297,0.2694,True,False
+mediumresidential_04.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,some buildings and many green trees are located in an average residential area.,0.44,0.2948,0.2878,True,True
+mediumresidential_04.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of houses in the suburbs,0.4,0.3153,0.2579,True,False
+mediumresidential_04.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a neighborhood with a lot of houses and trees,0.47,0.3093,0.273,True,False
+mediumresidential_05.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,many buildings and some green trees are in a medium residential area.,0.33,0.2891,0.3063,True,True
+mediumresidential_05.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of houses in a residential area,0.24,0.3141,0.2971,True,False
+mediumresidential_05.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a residential neighborhood with a swimming pool,0.31,0.326,0.3285,True,False
+mediumresidential_06.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,some green buildings and trees are located in an average residential area.,0.32,0.2809,0.297,True,True
+mediumresidential_06.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of houses in a neighborhood,0.23,0.3213,0.2886,True,False
+mediumresidential_06.jpg,satellite,mediumresidential,satellite,BLIP-large,aerial view of a residential neighborhood with lots of houses in the foreground,0.33,0.2891,0.2911,True,False
+mediumresidential_07.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,some buildings and some green trees are located in an average residential area.,0.32,0.2933,0.3052,True,True
+mediumresidential_07.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of houses in a residential area,0.24,0.3159,0.2931,True,False
+mediumresidential_07.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a neighborhood with houses and trees in the foreground,0.33,0.2943,0.2835,True,False
+mediumresidential_08.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,some buildings and many green trees are located in an average residential area.,0.32,0.2821,0.2569,True,True
+mediumresidential_08.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of a neighborhood,0.25,0.2857,0.2663,False,False
+mediumresidential_08.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a neighborhood with a lot of houses and trees,0.3,0.294,0.2815,True,False
+mediumresidential_09.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,many buildings and some green trees are located on two sides of a road in an average residential area.,0.46,0.2693,0.3163,True,True
+mediumresidential_09.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of a street in a small town,0.25,0.2907,0.2786,False,False
+mediumresidential_09.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a small town with a street and several buildings,0.31,0.2732,0.288,True,False
+mediumresidential_10.jpg,satellite,mediumresidential,satellite,RSICD-BLIP,many green buildings and trees are located in an average residential area.,0.31,0.2905,0.268,True,True
+mediumresidential_10.jpg,satellite,mediumresidential,satellite,BLIP-base,an aerial view of a neighborhood,0.24,0.3093,0.2634,False,False
+mediumresidential_10.jpg,satellite,mediumresidential,satellite,BLIP-large,an aerial view of a residential area with a swimming pool in the middle of it,0.37,0.3093,0.321,True,False

@@ -1,0 +1,17 @@
+query,model,P@5,R@10,AP
+dense residential buildings,RemoteCLIP,1.0,0.5,0.7072190591212331
+dense residential buildings,CLIP,1.0,0.6,0.7613061499903606
+houses with trees and yards,RemoteCLIP,1.0,0.5,0.8987299465240642
+houses with trees and yards,CLIP,1.0,0.45,0.9098754998988582
+a road intersection,RemoteCLIP,1.0,1.0,1.0
+a road intersection,CLIP,1.0,0.8,0.9358974358974358
+a freeway or highway with cars,RemoteCLIP,1.0,0.9,0.9315204678362574
+a freeway or highway with cars,CLIP,0.8,0.6,0.7794605394605395
+a large green space with trees,RemoteCLIP,1.0,0.5,0.9295129535067617
+a large green space with trees,CLIP,0.8,0.4,0.7846972188458257
+a golf course,RemoteCLIP,1.0,1.0,1.0
+a golf course,CLIP,1.0,1.0,1.0
+a dense forest,RemoteCLIP,1.0,1.0,1.0
+a dense forest,CLIP,1.0,0.9,0.9833333333333334
+residential buildings near a road network,RemoteCLIP,0.8,0.3,0.8398103634018138
+residential buildings near a road network,CLIP,1.0,0.3,0.8635167886208547
